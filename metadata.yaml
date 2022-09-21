@@ -1,0 +1,25 @@
+_repo: From-outer-space_68860
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Zacks, Robert
+    gutenberg_agent_id: '46179'
+    url: http://www.gutenberg.org/2009/agents/46179
+description: ''
+gutenberg_issued: '2022-08-29'
+identifiers:
+  gutenberg: '68860'
+language: en
+pgterms:marc905: 20220522092739zacks
+pgterms:marc906: '1952'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: United States :Better Publications, Inc.,1952.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: From outer space
+url: http://www.gutenberg.org/ebooks/68860
